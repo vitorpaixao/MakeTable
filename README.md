@@ -15,7 +15,15 @@ https://adobexdplatform.com/plugin-docs/reference/selection.html
 https://github.com/AdobeXD/xdpm
 https://github.com/AdobeXD
 
+# OBS
+
+- In VSCode "xdpm" not running in PowerShell
+
 
 ## Usage
 
-1. Run "Plugins > Enlarge a Rectangle"
+npm install -g @adobe/xdpm
+
+Run "xdpm watch"
+
+1. Run "Plugins > "
